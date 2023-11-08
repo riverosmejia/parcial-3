@@ -1,4 +1,4 @@
-
+#Defina una función para calcular el promedio de los números pares de una lista de enteros
 def function1(lista):
 
     def promedio( num, cont):
